@@ -24,4 +24,4 @@ go.sum
 
 # Ignore local development files
 .env
-*.log
+*.log.terraform/
